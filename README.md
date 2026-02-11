@@ -20,17 +20,24 @@ StackPVP is implemented in with Keras library. For detail instruction of install
 
 # # Usage:
 Clone the repository or download compressed source code files.
+
 ```
 git clone https://github.com/virbioinfor/StackPVP_2025.git
+
 cd StackPVP_2025
+
 ```
 
 ## Install dependencies:
 ```
 conda install python=3.9.13 numpy=1.24.3 scikit-learn=1.2.2 pandas=1.5.3 matplotlib=3.7.1
-or create a virtual environment 
+
+or create a virtual environment
+
 conda create --name StackPVP_2025 python=3.9.13 numpy=1.24.3 scikit-learn=1.2.2 pandas=1.5.3 matplotlib=3.7.1
+
 source activate StackPVP_2025
+
 ```
 
 ## Data:
