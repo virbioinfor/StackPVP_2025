@@ -25,7 +25,7 @@ Clone the repository or download compressed source code files.
 ## Install dependencies:
 
 ## Data:
-All data used by experiments described in manuscript is available at "https://github.com/virbioinfor/StackPVP_2025/".
+All data used by experiments described in manuscript is available at [Github](https://github.com/chuym726/DeephageTP).
 
 ## Citation: 
 StackPVP: A Stacked Ensemble Classification Framework for Predicting Phage Virion Proteins Using Integrated Evolutionary Features
